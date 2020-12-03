@@ -1,0 +1,56 @@
+.mainimg{
+background-image: url("https://cdn.vox-cdn.com/thumbor/3wB-MMZSEzT5jyJajlwDcn099oE=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19315575/Edge_Dusk___Courtesy_of_Related_Oxford_.jpg");
+height: 110vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ndsection{
+    background-color:white
+}
+ .vertical-line{
+        display: inline-block;
+        border-left: 1.5px solid rgb(105, 101, 101);
+        margin: 0 10px;
+        height: 15rem;
+    }
+
+
+
+    /* 3rdsection */
+.rdsection,.jumbotron{
+    background-color: rgba(245, 241, 241, 0.925);
+}
+
+
+/* prinncing page */
+#cat:hover{
+    border-color: black;
+}
+
+#cd:hover{
+    border-color: black;
+}
+
+.payli{
+    background-color: white;
+}
+
+.jumbo{
+    background-color: rgba(253, 253, 253, 0.925);
+}
+
+/* seraching page */
+
+.jubo{
+    background-color: rgba(102, 223, 223, 0.946);
+}
+
+
+.search-hover{
+    color: white;
+}
+.search-hover:hover{
+    color: black;
+}
